@@ -1,0 +1,21 @@
+body{
+    background-color: burlywood;
+}
+
+h3{
+    margin-left: 1rem;
+    color: brown;
+    text-align: center;
+}
+
+img{
+    width: 500px;
+    height: 3 00px;
+    float: left;
+    margin: 20px;
+}
+
+p{
+    line-height: 20px;
+    margin: 20px;
+}
