@@ -8,9 +8,14 @@ h3{
     text-align: center;
 }
 
+li {
+    margin-left: 80px;
+}   
+
+
 img{
     width: 500px;
-    height: 3 00px;
+    height: 250px;
     float: left;
     margin: 20px;
 }

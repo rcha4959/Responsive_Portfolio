@@ -11,5 +11,9 @@ html {
     -o-background-size: cover;
     background-size: cover;
   }
+ 
+ 
 
-
+  li {
+      margin-left: 80px;
+}   

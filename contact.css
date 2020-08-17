@@ -1,3 +1,19 @@
+.form-control{
+    width: 50%;
+
+}
+
+.form-group message{
+    height: 100px;
+}
+
 .form-group{
-    border: 200px;
+    margin: 20px;
+}
+
+li{
+    margin-left: 80px;
+}   
+button{
+    margin: 20px;
 }
