@@ -6,11 +6,12 @@ h3{
     margin-left: 1rem;
     color: brown;
     text-align: center;
+   
 }
 
 li {
     margin-left: 80px;
-}   
+}       
 
 
 img{
@@ -23,4 +24,6 @@ img{
 p{
     line-height: 20px;
     margin: 20px;
+    font-style: oblique;
+    line-height: 50px;
 }

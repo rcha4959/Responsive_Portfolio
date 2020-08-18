@@ -1,3 +1,14 @@
+body{
+  background-color: darkkhaki;
+}
+
 li {
   margin-left: 80px;
-}   
+}  
+
+img{
+  width: 350px;
+  height: 350px;
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
