@@ -3,17 +3,17 @@
     color: rgba(38, 120, 226, 0.795);
 }
 
-
 html { 
     background: url(https://cdn.pixabay.com/photo/2020/07/23/17/54/mountain-5431950_1280.png) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
-    -o-background-size: cover;
+    -o-background-size: cover;  
     background-size: cover;
   }
  
- 
 
-  li {
+
+li {
       margin-left: 80px;
-}   
+      
+}  
